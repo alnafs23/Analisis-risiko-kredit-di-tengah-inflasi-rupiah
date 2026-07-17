@@ -11,7 +11,7 @@
   <img alt="License" src="https://img.shields.io/badge/Data%20Source-OJK%20%26%20BPS-blue">
 </p>
 
-> **TL;DR** — Outstanding pembiayaan fintech P2P lending Indonesia tumbuh >25% YoY, tapi TWP90 (kredit macet 90 hari) ikut naik mendekati batas aman OJK 5%. Analisis ini menguji apakah inflasi rupiah — yang sempat melonjak ke 4,76% pada Feb 2026 — punya andil dalam tren tersebut, dan menemukan korelasi positif kuat (r = 0,900) sekaligus pola konsentrasi risiko yang lebih mengkhawatirkan dari yang terlihat di angka rata-rata industri.
+> **TL;DR** — Outstanding pembiayaan fintech P2P lending Indonesia tumbuh >25% YoY, tapi TWP90 (kredit macet 90 hari) ikut naik mendekati batas aman OJK 5%. Analisis ini menguji apakah inflasi rupiah yang sempat melonjak ke 4,76% pada Feb 2026 mempunya andil dalam tren tersebut, dan menemukan korelasi positif kuat (r = 0,900) sekaligus pola konsentrasi risiko yang lebih mengkhawatirkan dari yang terlihat di angka rata-rata industri.
 
 ---
 
