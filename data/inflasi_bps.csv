@@ -1,0 +1,14 @@
+periode,inflasi_yoy_persen,inflasi_mtm_persen,sumber
+2025-01,0.76,,BPS (3 Feb 2025)
+2025-02,-0.09,,BPS (Mar 2025)
+2025-05,1.60,,BPS
+2025-07,2.37,,BPS
+2025-09,2.65,,BPS
+2025-10,2.86,,BPS
+2025-12,2.92,0.64,BPS (5 Jan 2026)
+2026-01,3.55,,BPS (2 Feb 2026)
+2026-02,4.76,0.42,BPS (2 Mar 2026)
+2026-03,3.48,0.41,BPS (1 Apr 2026) / Kontan
+2026-04,2.42,0.28,Trading Economics (data BPS)
+2026-05,3.08,0.28,"Trading Economics (data BPS; estimasi dari rilis Juni)"
+2026-06,3.34,0.44,Trading Economics (data BPS)
