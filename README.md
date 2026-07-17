@@ -144,7 +144,3 @@ jupyter notebook proyek_risiko_kredit_p2p_lending.ipynb
 - [ ] Tarik data langsung dari file Statistik LPBBTI resmi OJK (ojk.go.id) untuk mengisi bulan yang kosong
 - [ ] Tambahkan variabel BI Rate, kurs Rupiah, dan indeks kepercayaan konsumen
 - [ ] Bangun model prediktif (ARIMAX / regresi time-series dengan lag)
-
----
-
-<p align="center"><i>Dibuat oleh <a href="https://github.com/alnafs23">alnafs23</a> — bagian dari portofolio Data Analyst, Juli 2026</i></p>
